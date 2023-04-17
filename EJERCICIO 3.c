@@ -1,3 +1,8 @@
+/******************************************************************************
+
+Leer un número entero y mostrar todos los divisores exactos del número comprendidos entre 1 y el número leído.
+
+*******************************************************************************/
 #include <stdio.h>
 
 int main()
